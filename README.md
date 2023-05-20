@@ -172,6 +172,16 @@
       <td>A company that develops products for software developers, project managers, and content management.</td>
     </tr>
     <tr>
+      <td><img src="assets/obsidian.png" alt="Obsidian" width="32" height="32" /></td>
+      <td>Obsidian</td>
+      <td>A proprietary note-taking and knowledge management application.</td>
+    </tr>
+    <tr>
+      <td><img src="assets/zotero.png" alt="Zotero" width="32" height="32" /></td>
+      <td>Zotero</td>
+      <td>A free and open-source reference management software to manage bibliographic data and related research materials.</td>
+    </tr>
+    <tr>
       <td><img src="assets/forge.webp" alt="Forge" width="32" height="32" /></td>
       <td>Forge</td>
       <td>A tool for continuous deployment of web applications.</td>

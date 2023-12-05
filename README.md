@@ -3,7 +3,7 @@
 <h2>About me</h2>
 
 <p style="display: block; font-size: 16px; margin: 10px 0;">
-  👨‍💼 I am a graduate business informatics specialist with extensive programming experience since 2003. My passion is the development of software solutions and the optimization of business processes.
+  👨‍💼 I am a graduate business informatics specialist with extensive and long-standing programming experience. My passion is the development of software solutions and the optimization of business processes.
 </p>
 
 <p style="display: block; font-size: 16px; margin: 10px 0;">
